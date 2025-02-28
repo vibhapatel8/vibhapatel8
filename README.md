@@ -7,8 +7,13 @@
 - 🔭 I’m currently working on internship **customer relationship management system**
  
 - 📫 How to reach me **vibhapatel0622@gmail.com**
-- 
-     MY PORTFOLIO **https://jabalpurvibha8.my.canva.site
+
+
+-  MY PORTFOLIO **https://jabalpurvibha8.my.canva.site**
+
+
+- ACHIEVEMENTS: **https://github.com/vibhapatel8/vibhapatel8/blob/main/certificate's.pdf** 
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
