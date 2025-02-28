@@ -12,7 +12,7 @@
 -  MY PORTFOLIO **https://jabalpurvibha8.my.canva.site**
 
 
-- ACHIEVEMENTS: **https://github.com/vibhapatel8/vibhapatel8/blob/main/certificate's.pdf** 
+- ACHIEVEMENTS:**https://www.linkedin.com/posts/vibha-patel-52b499223_certificates-activity-7301229747739537409-iEDv?utm_source=share&utm_medium=member_android&rcm=ACoAADgieLMBt9oRpWby2GfS0CxnN9Mc38GfUiA**
 
   
 <h3 align="left">Connect with me:</h3>
