@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on internship **customer relationship management system**
  
-- 📫 How to reach me **vibhapatel0622@gmail.com**
+- * ✉️  You can contact me at [E-mail](mailto:vibhapatel0622@gmail.com)<br>
 
 
 -  MY PORTFOLIO **https://jabalpurvibha8.my.canva.site**
