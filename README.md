@@ -6,13 +6,10 @@
 
 - 🔭 I’m currently working on internship **customer relationship management system**
  
-- * ✉️  You can contact me at [E-mail](mailto:vibhapatel0622@gmail.com)<br>
+- ✉️  You can contact me at [E-mail](mailto:vibhapatel0622@gmail.com)<br>
 
-
--  MY PORTFOLIO **https://jabalpurvibha8.my.canva.site**
-
--MY PROJECT 
-**https://sites.google.com/view/jbpvibhapatel02/home**
+-  <a href="https://jabalpurvibha8.my.canva.site">MY PORTFOLIO</a>
+-  <a href="https://sites.google.com/view/jbpvibhapatel02/home">MY PROJECT</a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
