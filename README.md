@@ -10,7 +10,7 @@
 
 -  <a href="https://jabalpurvibha8.my.canva.site">MY PORTFOLIO</a>
 -  <a href="https://sites.google.com/view/jbpvibhapatel02/home">MY PROJECT</a>
--  <a href="https://talent.testgorilla.com/test-results" > Test Gorilla Result</a>
+-  <a href="https://talent.testgorilla.com/my-profile" > Test Gorilla Result</a>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
