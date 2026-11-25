@@ -8,7 +8,7 @@
  
 - ✉️  You can contact me at [E-mail](mailto:vibhapatel0622@gmail.com)<br>
 
--  <a href="https://jabalpurvibha8.my.canva.site">MY PORTFOLIO</a>
+-  <a href="https://tranquil-sprinkles-76f726.netlify.app">MY PORTFOLIO</a>
 -  <a href="https://sites.google.com/view/jbpvibhapatel02/home">MY PROJECT</a>
 -  <a href="https://talent.testgorilla.com/my-profile" > Test Gorilla Result</a>
 <hr>
