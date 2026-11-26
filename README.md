@@ -10,6 +10,8 @@
 
 -  <a href="https://tranquil-sprinkles-76f726.netlify.app">MY PORTFOLIO</a>
 -  <a href="https://sites.google.com/view/jbpvibhapatel02/home">MY PROJECT</a>
+- <a href="Vibha_Resume.pdf" target="_blank" class="btn-view">
+    View Resume </a>
 -  <a href="https://talent.testgorilla.com/my-profile" > Test Gorilla Result</a>
 <hr>
 <h3 align="left">Connect with me:</h3>
